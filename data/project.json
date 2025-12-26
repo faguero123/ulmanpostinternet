@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"faguero123","avatar_url":"https://avatars.githubusercontent.com/u/183631483?v=4","admin":true}],"project":{"github_org":"faguero123","is_private":false,"title":"Amalia Ulman and Postinternet Art","description":"This project will produce a curated, openly accessible set of annotated audiovisual materials that document and contextualize Amalia Ulman’s evolving relationship to Postinternet art. There are annotations of key interviews and talks available on YouTube, such as Ulman’s 2016 presentation at ICA London, her interview with LI-MA, and her recent 2025 conversation with Ruby Justice Thelot. Each recording is enriched with thematic annotations highlighting Ulman’s reflections on authenticity, identity, and digital mediation, while also situating these moments within broader definitions of Postinternet art.","language":"en","slug":"ulmanpostinternet","creator":"faguero123","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-12-26T06:16:10.914Z","updated_at":"2025-12-26T06:31:18.501Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"4bc999ff-6741-4126-99fa-ed8b431558ad":{"content":[],"created_at":"2025-12-26T06:16:10.932Z","created_by":"faguero123","title":"Amalia Ulman and Postinternet Art","updated_at":"2025-12-26T06:16:10.932Z","updated_by":"faguero123","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["4bc999ff-6741-4126-99fa-ed8b431558ad"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "faguero123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183631483?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "faguero123",
+    "is_private": false,
+    "title": "Amalia Ulman and Postinternet Art",
+    "description": "This project will produce a curated, openly accessible set of annotated audiovisual materials that document and contextualize Amalia Ulman’s evolving relationship to Postinternet art. There are annotations of key interviews and talks available on YouTube, such as Ulman’s 2016 presentation at ICA London, her interview with LI-MA, and her recent 2025 conversation with Ruby Justice Thelot. Each recording is enriched with thematic annotations highlighting Ulman’s reflections on authenticity, identity, and digital mediation, while also situating these moments within broader definitions of Postinternet art.",
+    "language": "en",
+    "slug": "ulmanpostinternet",
+    "creator": "faguero123",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-12-26T06:16:10.914Z",
+    "updated_at": "2025-12-26T06:32:06.559Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4bc999ff-6741-4126-99fa-ed8b431558ad": {
+      "content": [],
+      "created_at": "2025-12-26T06:16:10.932Z",
+      "created_by": "faguero123",
+      "title": "Amalia Ulman and Postinternet Art",
+      "updated_at": "2025-12-26T06:16:10.932Z",
+      "updated_by": "faguero123",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4bc999ff-6741-4126-99fa-ed8b431558ad"
+  ]
+}
