@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "faguero123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183631483?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "faguero123",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-12-26T06:16:10.914Z",
-    "updated_at": "2025-12-26T06:16:10.914Z"
-  }
+    "updated_at": "2025-12-26T06:16:10.914Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4bc999ff-6741-4126-99fa-ed8b431558ad": {
+      "content": [],
+      "created_at": "2025-12-26T06:16:10.932Z",
+      "created_by": "faguero123",
+      "title": "Amalia Ulman and Postinternet Art",
+      "updated_at": "2025-12-26T06:16:10.932Z",
+      "updated_by": "faguero123",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4bc999ff-6741-4126-99fa-ed8b431558ad"
+  ]
 }
